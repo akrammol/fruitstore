@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "fruiteStore",
+    "packageName": "com.cybercom.fruitstore",
+    "packageFolder": "com/cybercom/fruitstore",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "NGQwOTU4NzEwZmYxYzFlYzA2NTk2M2FhYzdlMjQ4MDRiMjlhMGI1YWVhYWExNDE1NzA1ZDAyNjYxNjcyYjRhM2RkYmY5NWRiOTg1ZjUwZTI1ZjcyZDkyNTU3ODY4NWU3OTRhMTBmMzQ5YzZkZGM2MmRiZGJhY2JmNTZkZGFiMjk=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "akrammol",
+  "repository-name": "fruitstore"
+}
