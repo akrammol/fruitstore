@@ -1,0 +1,7 @@
+
+entity Fruit {
+	name String ,
+    type String,
+    price Long
+    }
+
